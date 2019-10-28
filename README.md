@@ -3,11 +3,15 @@
 
 
 Ce répo contient votre compte-rendu pour les TPs d'analyse de données multidimensionnelles :
-* TP 1: Introduction à `pandas`
-* TP 2: Utilisation et visualisation d'ACP avec `scikit-learn`
-
-Votre compte rendu prend la forme d'un notebook python, que vous devez sauvegarder dans ce répo.
+* TP 1: Introduction à `pandas` [![Open In Colab](https://colab.research.google.com/github/campusplage/multidimensional-compte-rendus/blob/master/TP1_pandas.ipynb)
+* TP 2: Utilisation et visualisation d'ACP avec `scikit-learn` [![Open In Colab](https://colab.research.google.com/github/campusplage/multidimensional-compte-rendus/blob/master/TP2_scikit-learn.ipynb)
 
 
-Le squelette de ce compte rendu, à compléter se trouve ici:
+Ouvrez ces documents, __et faites attention à les sauvegarder sur ce répo__. C'est sur eux que vous serez notés.
+
+
+---
+date limite: __le 2 décembre à 6h du matin__
+
+--
 
