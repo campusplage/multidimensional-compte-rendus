@@ -7,7 +7,7 @@ Ce répo contient votre compte-rendu pour les TPs d'analyse de données multidim
 * TP 2: Utilisation et visualisation d'ACP avec `scikit-learn` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/campusplage/multidimensional-compte-rendus/blob/master/TP2_sklearn.ipynb)
 
 
-Ouvrez ces documents, __et faites attention à les sauvegarder sur ce répo__. C'est sur eux que vous serez notés.
+Ouvrez ces documents, __et faites attention à les sauvegarder sur votre propre répo de compte rendus__. C'est sur eux que vous serez notés.
 
 
 ---
